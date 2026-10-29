@@ -1,16 +1,25 @@
 {
  "adoption_day": {
-  "sha": "d4a0eb4fe855d89f4d97cbc70d3c97ff537d4f7e",
-  "entry": "module_07/my_app.md",
+  "sha": "fff124315e51327d303a88b5600c133a4733997a",
+  "entry": "my_app.md",
   "files": [
-   "module_07/my_app.md",
-   "module_06/walk.md",
-   "module_01/cv.md"
+   "my_app.md"
   ],
   "by": "skanderz270",
   "engine": "266b8d3",
-  "at": "2026-10-29T17:05:21.505Z",
+  "at": "2026-10-29T17:09:16.651Z",
   "history": [
+   {
+    "sha": "fff124315e51327d303a88b5600c133a4733997a",
+    "at": "2026-10-29T17:09:16.651Z",
+    "entry": "my_app.md",
+    "engine": "266b8d3",
+    "parts": [
+     "avatar_trigger"
+    ],
+    "todo": 0,
+    "note": "2nd ship"
+   },
    {
     "sha": "d4a0eb4fe855d89f4d97cbc70d3c97ff537d4f7e",
     "at": "2026-10-29T17:05:21.505Z",
